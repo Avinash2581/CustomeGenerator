@@ -28,7 +28,7 @@ public class OrderDetails {
 	private Date orderPlacedDate;
 	public OrderDetails() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 	public OrderDetails(String orderId, String orderBy, Date orderPlacedDate) {
 		super();
